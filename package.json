@@ -1,7 +1,7 @@
 {
-  "name": "geek-trust",
+  "name": "geektrust",
   "version": "1.0.0",
-  "description": "potfolio-overlap",
+  "description": "geektrust-project",
   "main": "index.js",
   "scripts": {
     "start": "node geektrust.js",
