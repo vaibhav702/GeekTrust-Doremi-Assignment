@@ -10,6 +10,11 @@
   "author": "geektrust",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^10.0.0"
+    "and": "^0.0.3",
+    "mocha": "^10.0.0",
+    "moment": "^2.29.4",
+    "npm": "^8.15.0",
+    "start": "^5.1.0",
+    "test": "^3.1.0"
   }
 }
